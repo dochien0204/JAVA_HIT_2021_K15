@@ -1,8 +1,7 @@
 package Bai4;
 
-import java.util.Scanner;
-import java.lang.String;
 import java.lang.Character;
+import java.util.Scanner;
 public class RunMain
 {
     static Scanner sc = new Scanner(System.in);
