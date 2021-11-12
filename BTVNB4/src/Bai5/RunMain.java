@@ -34,4 +34,4 @@ public class RunMain {
         System.out.println(isPrime(3.5f)); //float
         System.out.println(isPrime(12.0d)); //double
     }
-    }
+}
