@@ -61,7 +61,7 @@ public class RunMain {
         if(newsList.size() == 0)
         {
             System.out.println("No have News befor ! Back to menu and choose selection one to add News");
-        }
+        }x`
         else {
             for (int i = 0; i < newsList.size(); i++) {
                 newsList.get(i).display();
